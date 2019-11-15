@@ -1,5 +1,8 @@
 # shairport-power
 
+Inspired by
+https://github.com/mikebrady/shairport-sync/issues/931
+
 Fix GPIO permissions
 https://raspberrypi.stackexchange.com/questions/40105/access-gpio-pins-without-root-no-access-to-dev-mem-try-running-as-root
 https://github.com/mikebrady/shairport-sync/issues/775
