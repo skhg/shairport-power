@@ -10,6 +10,15 @@ However, it turned out that my speakers had a bit of a "hum" when no audio was p
 
 [![Video of it switching off](http://img.youtube.com/vi/Is1vkanx2_s/0.jpg)](http://www.youtube.com/watch?v=Is1vkanx2_s)
 
+# Ingredients
+* [Raspberry Pi 3 model B](https://www.amazon.de/gp/product/B01CD5VC92/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+* [TP-Link Powerline Adapter](https://www.amazon.de/gp/product/B00ADW9R22/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+* [Raspberry Pi Case](https://www.amazon.de/gp/product/B06X99BM44/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+* A compatible Relay. I used a [4x relay block](https://www.amazon.de/Elegoo-Relaismodul-Optokoppler-Arduino-Raspberry/dp/B01M8G4Y7Z/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=arduino+relais+sainsmart&qid=1573939970&sr=8-3) which I had lying around but really you just need [a single one](https://www.amazon.de/AZDelivery-1-Relais-KY-019-High-Level-Trigger-Arduino/dp/B07CNR7K9B/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=arduino+relay&qid=1573939996&sr=8-7)
+* Some [wires](https://www.amazon.de/gp/product/B0144HG2RE/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+* Some [female connectors and plugs](https://www.amazon.de/gp/product/B01MRSUEHD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+
+# Solution
 
 
 
