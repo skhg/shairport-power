@@ -45,7 +45,7 @@ As you can see on the outside, I split the power cable to the speakers, and spli
 
 ## Configuring the software
 
-I chose the Python [GPIO](https://sourceforge.net/p/raspberry-gpio-python/wiki/BasicUsage/) library because the pin state is retained after the script exits. This isn't the case with [gpiozero](https://gpiozero.readthedocs.io/en/stable/faq.html) a popular, simpler alternative.
+I chose the Python [GPIO](https://sourceforge.net/p/raspberry-gpio-python/wiki/BasicUsage/) library because the pin state is retained after the script exits. This isn't the case with [gpiozero](https://gpiozero.readthedocs.io/en/stable/faq.html) (a popular, simpler alternative).
 
 Finally I had to change some configuration parameters in shairport-sync to point to my scripts:
 
