@@ -6,7 +6,10 @@ I recently got and old pair of speakers, and wanted to set them up to stream wir
 However, it turned out that my speakers had a bit of a "hum" when no audio was playing, so I needed a way to switch them off when not in use. Also saving a couple of watts of power.
 
 ## The finished product
-[![Video of the thing switching off](https://img.youtube.com/vi/https://youtu.be/Is1vkanx2_s/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Is1vkanx2_s)
+(Youtube Video)
+
+[![Video of it switching off](http://img.youtube.com/vi/Is1vkanx2_s/0.jpg)](http://www.youtube.com/watch?v=Is1vkanx2_s)
+
 
 
 
