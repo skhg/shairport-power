@@ -20,12 +20,16 @@ However, it turned out that my speakers had a bit of a "hum" when no audio was p
 
 # Solution
 
+![Circuit diagram](./images/speaker_power_bb.jpg)
 
+The starting point was [this question](https://github.com/mikebrady/shairport-sync/issues/931) which seemed to do something I wanted. Shairport-sync has a feature which runs a script when music starts or stops, and this was perfect for controlling the power.
 
+I set up the [python script](./scripts/gpioControl.py) to take an `ON` or `OFF` parameter and control the relay switch.
 
+I used pins 4, 6, 8 and 10 on the Raspberry Pi (more convenient, as they're next to each other). Pin 4 supplies power at 5V. Pin 6 is ground, and pin 8 is the I/O for the switch. Pin 10 is connected to a second relay in case I decide to add something else to the system later on.
 
-Inspired by
-https://github.com/mikebrady/shairport-sync/issues/931
+[Raspi GPIO](./images/raspi_pins.jpeg)
+
 
 Fix GPIO permissions
 https://raspberrypi.stackexchange.com/questions/40105/access-gpio-pins-without-root-no-access-to-dev-mem-try-running-as-root
