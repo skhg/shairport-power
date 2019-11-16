@@ -28,7 +28,7 @@ I set up the [python script](./scripts/gpioControl.py) to take an `ON` or `OFF` 
 
 I used pins 4, 6, 8 and 10 on the Raspberry Pi (more convenient, as they're next to each other). Pin 4 supplies power at 5V. Pin 6 is ground, and pin 8 is the I/O for the switch. Pin 10 is connected to a second relay in case I decide to add something else to the system later on.
 
-[Raspi GPIO](./images/raspi_pins.jpg)
+![Raspi GPIO](./images/raspi_pins.jpg)
 
 
 Fix GPIO permissions
