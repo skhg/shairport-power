@@ -1,5 +1,17 @@
 # shairport-power
 
+## Background
+I recently got and old pair of speakers, and wanted to set them up to stream wirelessly with [AirPlay](https://www.apple.com/airplay/). One of the best ways to do this with 3rd-party software seems to be to run [shairport-sync](https://github.com/mikebrady/shairport-sync) on a [Raspberry Pi](https://www.raspberrypi.org/).
+
+However, it turned out that my speakers had a bit of a "hum" when no audio was playing, so I needed a way to switch them off when not in use. Also saving a couple of watts of power.
+
+## The finished product
+[![Video of the thing switching off](https://img.youtube.com/vi/https://youtu.be/Is1vkanx2_s/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Is1vkanx2_s)
+
+
+
+
+
 Inspired by
 https://github.com/mikebrady/shairport-sync/issues/931
 
